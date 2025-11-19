@@ -1,0 +1,110 @@
+{
+  "dataset_info": {
+    "name": "MOF Water Capture",
+    "description": "Metal-Organic Framework atmospheric water capture for AI datacenters",
+    "num_samples": 7,
+    "num_features": 8
+  },
+  "feature_statistics": {
+    "surface_area_m2g": {
+      "mean": 1659.2857142857142,
+      "std": 1144.6558018731678,
+      "min": 675.0,
+      "max": 4100.0,
+      "median": 1200.0
+    },
+    "pore_volume_cm3g": {
+      "mean": 0.687142857142857,
+      "std": 0.5588593826033607,
+      "min": 0.28,
+      "max": 1.9,
+      "median": 0.45
+    },
+    "pore_size_angstrom": {
+      "mean": 10.37142857142857,
+      "std": 8.528718990507754,
+      "min": 5.2,
+      "max": 29.0,
+      "median": 6.2
+    },
+    "hydrophilicity": {
+      "mean": 0.7000000000000001,
+      "std": 0.21015867021530818,
+      "min": 0.4,
+      "max": 0.95,
+      "median": 0.7
+    },
+    "thermal_stability_K": {
+      "mean": 594.4285714285714,
+      "std": 56.69467095138408,
+      "min": 523.0,
+      "max": 673.0,
+      "median": 573.0
+    },
+    "cost_per_kg": {
+      "mean": 47.57142857142857,
+      "std": 8.541216596737314,
+      "min": 35.0,
+      "max": 60.0,
+      "median": 48.0
+    },
+    "max_water_uptake": {
+      "mean": 0.41228571428571426,
+      "std": 0.3353156295620164,
+      "min": 0.168,
+      "max": 1.14,
+      "median": 0.27
+    },
+    "daily_water_yield": {
+      "mean": 1.649142857142857,
+      "std": 1.3412625182480655,
+      "min": 0.672,
+      "max": 4.56,
+      "median": 1.08
+    }
+  },
+  "key_findings": [
+    {
+      "finding": "Top Surface Area MOFs",
+      "counties": [
+        1005,
+        1004,
+        1006
+      ],
+      "values": [
+        4100,
+        1850,
+        1630
+      ]
+    },
+    {
+      "finding": "Highest Daily Water Yield",
+      "counties": [
+        1005,
+        1004,
+        1006
+      ],
+      "values": [
+        4.56,
+        1.7999999999999998,
+        1.536
+      ]
+    },
+    {
+      "finding": "Most Cost-Effective MOFs",
+      "counties": [
+        1005,
+        1004,
+        1006
+      ],
+      "values": [
+        0.076,
+        0.045,
+        0.043885714285714285
+      ]
+    }
+  ],
+  "recommendations": [
+    "Prioritize MOFs with thermal stability >600K for reliable temperature-swing operation"
+  ]
+}
