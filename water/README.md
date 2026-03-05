@@ -1,4 +1,4 @@
-[Active Projects](../../projects) - [Evaporation Kits](../)
+[Active Projects](../../projects)
 # Water Capture and Fast Desalination
 <!--Innovations in Water Purification-->
 
@@ -16,7 +16,6 @@ Discovered at MIT in 2021, porous Metal-Organic Framework (MOF) material in tiny
 Does the following article give us liters-per-day to compare with Source.co solar panels?
 [2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
 
-[MOF Data Analysis](../)
 
 ## Seawater to Drinking Water in a Few Minutes
 
@@ -32,6 +31,6 @@ Source.co uses solar panels to condense water from air. Used in over 50 countrie
 
 20% of energy use by industry in spent drying equipment with heat and blowers. Cold polarized green light can evaporate water by cleaving sheets of H20 from the water surface, generating clean water with less energy.  
 
-[More on water cleaving (evaporation-kits)](../../evaporation-kits).
+[More on water cleaving (evaporation-kits)](https://model.earth/evaporation-kits).
 
 
