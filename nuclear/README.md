@@ -3,6 +3,8 @@
 
 ## Closed-Loop Nuclear Site Design: <span style='color:#999'>Deep-Containment Architecture (DCA)</span>
 
+Related Issue: [Water Replenishment using Excess Heat from Data Centers and SMRs](https://github.com/ModelEarth/projects/issues/69)
+
 <span class="floatright">During monsoon season, the radiation storage ponds regularly overflowed into streams and groundwater that feeds into the Subarnarekha [River of Death](https://publicintegrity.org/national-security/indias-nuclear-industry-pours-its-wastes-into-a-river-of-death-and-disease/)<br>
 
 <a href="img/awalker.jpg"><img src="img/awalker.jpg" style="width:100%"></a><br>
