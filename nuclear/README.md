@@ -3,8 +3,10 @@
 
 ## Closed-Loop Nuclear Site Design: <span style='color:#999'>Deep-Containment Architecture (DCA)</span>
 
-<span class="floatright">
-During monsoon season, the radiation storage ponds regularly overflowed into streams and groundwater that feeds into the Subarnarekha [River of Death](https://publicintegrity.org/national-security/indias-nuclear-industry-pours-its-wastes-into-a-river-of-death-and-disease/)
+<span class="floatright">During monsoon season, the radiation storage ponds regularly overflowed into streams and groundwater that feeds into the Subarnarekha [River of Death](https://publicintegrity.org/national-security/indias-nuclear-industry-pours-its-wastes-into-a-river-of-death-and-disease/)<br>
+
+<a href="img/awalker.jpg"><img src="img/awalker.jpg" style="width:100%"></a><br>
+<a href="img/awalker-tradeoff.jpg"><img src="img/awalker-tradeoff.jpg" style="width:100%"></a><br>Images contrbuted by [Æshleigh Walker](https://x.com/Ashleigh11911/status/2033252535629189403/)
 </span>
 
 Underground Small Modular Reactors (SMRs) represent a transformative approach to clean, distributed, and secure nuclear power. By locating reactors below the surface, nations can achieve **enhanced safety, long-term waste containment**, and **minimal surface disruption**, while leveraging **modular scalability** for off-grid and high-altitude [water-capture](../../../grid/water/) applications without surface waste or water contamination.  
