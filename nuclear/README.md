@@ -8,7 +8,7 @@ Related Issue: [Water Replenishment using Excess Heat from Data Centers and SMRs
 <span class="floatright">During monsoon season, the radiation storage ponds regularly overflowed into streams and groundwater that feeds into the Subarnarekha [River of Death](https://publicintegrity.org/national-security/indias-nuclear-industry-pours-its-wastes-into-a-river-of-death-and-disease/)<br>
 
 <a href="img/awalker.jpg"><img src="img/awalker.jpg" style="width:100%"></a><br>
-<a href="img/awalker-tradeoff.jpg"><img src="img/awalker-tradeoff.jpg" style="width:100%"></a><br>Images contrbuted by [Æshleigh Walker](https://x.com/Ashleigh11911/status/2033252535629189403/)
+<a href="img/awalker-tradeoff.jpg"><img src="img/awalker-tradeoff.jpg" style="width:100%"></a><br>Images contrbuted by [Ashleigh Walker](https://x.com/Ashleigh11911/status/2033252535629189403/)<br>
 </span>
 
 Underground Small Modular Reactors (SMRs) represent a transformative approach to clean, distributed, and secure nuclear power. By locating reactors below the surface, nations can achieve **enhanced safety, long-term waste containment**, and **minimal surface disruption**, while leveraging **modular scalability** for off-grid and high-altitude [water-capture](../../../grid/water/) applications without surface waste or water contamination.  
@@ -27,6 +27,7 @@ Underground SMRs are particularly well suited for powering **ice-from-air** usin
 
 [Earthgrid plasma boring](https://earthgrid.io) fractures rock into small pieces using spallation (thermal shock) rather than fully gasifying. This clears tunnels without the need to remove material, and a lining can be applied. [Details](https://grok.com/share/bGVnYWN5LWNvcHk_24d1117b-9032-474f-a14f-f83b2f801c97)
 
+
 ## Low-Waste SMR Technologies
 
 | Reactor | Power | Fuel Cycle | Waste Reduction | Key Advantage |
@@ -36,15 +37,12 @@ Underground SMRs are particularly well suited for powering **ice-from-air** usin
 | **Natrium (TerraPower)** | 345 MWe | Fast spectrum, sodium-cooled | ~60% less | Reuses actinide waste, includes molten salt heat storage |
 | **Molten Salt Reactor** | 150–300 MWe | Thorium/uranium salts | 50–70% less | Shorter half-lives (~300 years), no high-pressure coolant |
 
-<br>
 
 **SMR References:**  
 - [Deep Fission](https://deepfission.com/technology/)  
 - [Holtec International – SMR-300](https://holtecinternational.com/products-and-services/smr/)  
 - [TerraPower Natrium Reactor](https://www.terrapower.com/technologies/natrium-reactor/)  
 - [World Nuclear Association – Molten Salt Reactors](https://world-nuclear.org/information-library/current-and-future-generation/molten-salt-reactors.aspx)
-
-<br>
 
 
 ### Highland Deployment for Aquifer Replenishment
