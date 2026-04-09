@@ -1,5 +1,9 @@
 [DEEP Nuclear - Desalination Financing Calculator](/deep-nuclear/)
-# Underground Small Modular Reactors (SMRs)
+# Safe Underground Nuclear
+
+### Underground Small Modular Reactors (SMRs)
+
+"The concept is surprisingly simple: Drill a 30-inch-diameter borehole a mile into the earth, fill it with water, then insert a teeny-tiny nuclear reactor that will boil the water at the bottom and send it up a separate pipe to run a steam turbine. Each hole will generate 15 megawatts, enough to power 12,000 homes. Put 70 of them in a field and you can power a one-gigawatt artificial intelligence data center" - [Forbes on Deep Fission](https://www.forbes.com/sites/christopherhelman/2026/04/02/acclaimed-physicist-and-his-daughter-are-burying-tiny-nuclear-reactors-a-mile-underground/)
 
 ## Closed-Loop Nuclear Site Design: <span style='color:#999'>Deep-Containment Architecture (DCA)</span>
 
@@ -11,7 +15,7 @@ Related Issue: [Water Replenishment using Excess Heat from Data Centers and SMRs
 <a href="img/awalker-tradeoff.jpg"><img src="img/awalker-tradeoff.jpg" style="width:100%"></a><br>Images contrbuted by [Ashleigh Walker](https://x.com/Ashleigh11911/status/2033252535629189403/)<br>
 </span>
 
-Underground Small Modular Reactors (SMRs) represent a transformative approach to clean, distributed, and secure nuclear power. By locating reactors below the surface, nations can achieve **enhanced safety, long-term waste containment**, and **minimal surface disruption**, while leveraging **modular scalability** for off-grid and high-altitude [water-capture](../../../grid/water/) applications without surface waste or water contamination.  
+Deep Fission represents a transformative approach to clean, distributed, and secure nuclear power. By locating tiny reactors a mile below the surface, nations can achieve **enhanced safety, long-term waste containment**, and **minimal surface disruption**, while leveraging **modular scalability** for off-grid and high-altitude [water-capture](../../../grid/water/) applications without surface waste or water contamination.  
 View Map of [43 Prospective Deep-Containment sites](/team/projects/map/#map=dca) and [Generate AI Insights on sites](/team/projects/#list=dca).
 
 This overview explores **zero-surface-waste designs** with **deployment in stable highland deserts** away from seismic and groundwater risks.  It also integrates **Metal-Organic Framework (MOF) water harvesting**, **salt brine construction reuse**, and **EarthGrid plasma boring** technologies to create a closed-loop system for power, water, and infrastructure.
@@ -27,6 +31,17 @@ Underground SMRs are particularly well suited for powering **ice-from-air** usin
 
 [Earthgrid plasma boring](https://earthgrid.io) fractures rock into small pieces using spallation (thermal shock) rather than fully gasifying. This clears tunnels without the need to remove material, and a lining can be applied. [Details](https://grok.com/share/bGVnYWN5LWNvcHk_24d1117b-9032-474f-a14f-f83b2f801c97)
 
+<!--
+mikebrennan8288 comment on Nuclear Waste reuse
+https://www.youtube.com/watch?v=IzQ3gFRj0Bc
+
+FULL DISCLOSURE: My undergrad degree is in Nuclear Engineering, I am a retired Naval Officer (submarines, nuclear weapons) and a retired Radiation Health Physicist, who worked for 25 years with the Washington Office of Radiation Protection. I admit to having opinions on this topic.
+
+First, this was very well done. I believe that it captured the general situation, though there are a couple of points that I think you and your viewers might find interesting:
+1. When fuel is reprocessed, not only the U235, but also the plutonium is usable as fissile material in new few. The plutonium was the excuse used to shut down the U.S. reprocessing efforts, but it really isn't very good for making nuclear weapons with. Basically, if you want "weapons grade" plutonium, you want to "cook" the fuel for a short time; days or weeks, depending on things. When fuel is in the reactor for years, the plutonium will have too much of the wrong isotopes. So, when you get down to it, our reprocessing program was shut down because of several lies. 
+2. With radioactive material, the half-life and how radioactive it is per number of atoms, or by weight, are linked. The shorter the half-life, the more radioactive it is. Fresh nuclear fuel, that hasn't been in a reactor, isn't radioactive enough to need special handling (though it is handled carefully, because it is REALLY expensive, and you wouldn't believe the amount of paperwork if you dent it). Spent Nuclear Fuel (SNF) is VERY radioactive, but the radioactivity start dropping as soon as the reactor is turned off. After about 10-30 years it is not hot enough to damage the fuel rods. After about 100 years it isn't very radioactive, anymore. After about 300 it is about as radioactive as when it went into the reactor. This is because the most radioactive fission fragments have short half-lives, and as those atoms decay, they aren't replaced, and eventually decay into stable atoms. So much of the problem with storing SNF is overstated, especially how long it needs to be stored. 
+3. Depending on a variety of factors, SNF can be used to make more energy without reprocessing it. The easiest way is with a Heavy Water Reactor, along the lines of the Canadian CANDU reactors. 
+-->
 
 ## Low-Waste SMR Technologies
 
