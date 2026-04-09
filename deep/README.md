@@ -1,12 +1,12 @@
-# Nuclear Desalination Financing Calculator
+# Desalination Economic Evaluation Program (DEEP)
 
-An interactive JavaScript calculator for evaluating the economic feasibility of converting existing coastal nuclear power plants into desalination facilities using Multi-Effect Distillation (MED) technology.
+[Project Flow Calculator](../../project/) using Deep Nuclear for Water Replenishment - Includes evaluating the economic feasibility of converting existing coastal nuclear power plants into desalination facilities using Multi-Effect Distillation (MED) technology.
 
-[Project Calculator](../../../project/) for Deep Fission + Desalination Economic Evaluation Program (DEEP)
+The alternative to retrofitting old nuclear plants is an emphasis on power from spent coils using [Deep Fission](https://www.forbes.com/sites/christopherhelman/2026/04/02/acclaimed-physicist-and-his-daughter-are-burying-tiny-nuclear-reactors-a-mile-underground/) for safe, abundant energy using mile-deep bore holes, with 30-inch diameters, to provide power to 12,000 homes at 15 megawatts. We've integrated both approaches in Energy Mix comparisons within the [Abundance&nbsp;Engine](../../project/).
 
-## Overview
+## Nuclear Desalination Financing Calculator - Overview
 
-This calculator is based on the IAEA DEEP 5.1 (Desalination Economic Evaluation Program) methodology and implements formulas for calculating daily fresh water production from nuclear waste heat recovery.
+Integrating International Atomic Energy Agency (IAEA) DEEP 5.1 methodology for calculating daily fresh water production from nuclear waste heat recovery.
 
 ## Key Features
 

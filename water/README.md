@@ -1,11 +1,15 @@
 [Active Projects](../../projects)
-# Water Capture and Fast Desalination
+# Water Replenishment and Fast Desalination
 <!--Innovations in Water Purification-->
 
 <!--
 <b>RAG Model Training</b> - Help us collect related research articles for Retrieval Augmented Generation (RAG) <a href="https://model.earth/data-commons/docs/water">water goals</a><br>
 Contribute links by adding comments in our <a href="https://docs.google.com/spreadsheets/d/1jQTlXWom-pXvyP9zuTcbdluyvpb43hu2h7anxhF5qlQ/edit?gid=957748871#gid=957748871">Google Sheet</a> for use in our <a href="/codechat">CodeChat</a> LLM UX.
 -->
+
+## Nuclear Fission + Aquifer Replenishment
+
+[Abundance Engine](../../project/) - Project RFP and Proposal orchestration
 
 ## Capturing Water from Dry Air
 

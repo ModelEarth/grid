@@ -15,7 +15,7 @@ Related Issue: [Water Replenishment using Excess Heat from Data Centers and SMRs
 <a href="img/awalker-tradeoff.jpg"><img src="img/awalker-tradeoff.jpg" style="width:100%"></a><br>Images contrbuted by [Ashleigh Walker](https://x.com/Ashleigh11911/status/2033252535629189403/)<br>
 </span>
 
-Deep Fission represents a transformative approach to clean, distributed, and secure nuclear power. By locating tiny reactors a mile below the surface, nations can achieve **enhanced safety, long-term waste containment**, and **minimal surface disruption**, while leveraging **modular scalability** for off-grid and high-altitude [water-capture](../../../grid/water/) applications without surface waste or water contamination.  
+Deep Fission represents a transformative approach to clean, distributed, and secure nuclear power. By locating tiny reactors a mile below the surface, neighborhood can achieve **enhanced safety, long-term waste containment**, and **minimal surface disruption**, while leveraging **modular scalability** for off-grid [water-replenishment](../../../grid/water/) applications without surface waste or water contamination.  
 View Map of [43 Prospective Deep-Containment sites](/team/projects/map/#map=dca) and [Generate AI Insights on sites](/team/projects/#list=dca).
 
 This overview explores **zero-surface-waste designs** with **deployment in stable highland deserts** away from seismic and groundwater risks.  It also integrates **Metal-Organic Framework (MOF) water harvesting**, **salt brine construction reuse**, and **EarthGrid plasma boring** technologies to create a closed-loop system for power, water, and infrastructure.
