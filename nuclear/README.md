@@ -1,4 +1,4 @@
-[DEEP Nuclear - Desalination Financing Calculator](/deep-nuclear/)
+[DEEP Nuclear - Desalination Financing Calculator](/project/#section=engineering)
 # Safe Underground Nuclear
 
 ### Underground Small Modular Reactors (SMRs)
@@ -205,4 +205,4 @@ Prepared by Amoghvarsh Kulkarni and Loren Heyns
 14. [Pandora's Promise](pandora) - Nuclear vs Renewables
 
 
-[DEEP Nuclear: Desalination Financing Calculator](/deep-nuclear/) -  Automation of conversion of existing nuclear plants near oceans into desalination facilities using Multi-Effect Distillation (MED) by capturing the 2/3 of reactor heat that is currently lost through cooling towers.  See [video on MED implementation](https://www.youtube.com/watch?v=L7R6G8knsGQ). Development of interactive javascript calculator for financing proposals to purchase and retrofit existing costal nuclear plants for desalination, with Earthgrid boring tech used for waste disposal deep below sites, and separate fuel and water transport tunnels funded through the sale of pure water.
+[DEEP Nuclear: Desalination Financing Calculator](/project/#section=engineering) -  Automation of conversion of existing nuclear plants near oceans into desalination facilities using Multi-Effect Distillation (MED) by capturing the 2/3 of reactor heat that is currently lost through cooling towers.  See [video on MED implementation](https://www.youtube.com/watch?v=L7R6G8knsGQ). Development of interactive javascript calculator for financing proposals to purchase and retrofit existing costal nuclear plants for desalination, with Earthgrid boring tech used for waste disposal deep below sites, and separate fuel and water transport tunnels funded through the sale of pure water.
