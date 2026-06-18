@@ -18,7 +18,7 @@ Related Issue: [Water Replenishment using Excess Heat from Data Centers and SMRs
 Deep Fission represents a transformative approach to clean, distributed, and secure nuclear power. By locating tiny reactors a mile below the surface, neighborhood can achieve **enhanced safety, long-term waste containment**, and **minimal surface disruption**, while leveraging **modular scalability** for off-grid [water-replenishment](../../../grid/water/) applications without surface waste or water contamination.  
 View Map of [43 Prospective Deep-Containment sites](/team/projects/map/#map=dca) and [Generate AI Insights on sites](/team/projects/#list=dca).
 
-This overview explores **zero-surface-waste designs** with **deployment in stable highland deserts** away from seismic and groundwater risks.  It also integrates **Metal-Organic Framework (MOF) water harvesting**, **salt brine construction reuse**, and **EarthGrid plasma boring** technologies to create a closed-loop system for power, water, and infrastructure.
+This overview explores **zero-surface-waste designs** with **deployment in stable highland deserts** away from seismic and groundwater risks.  It also integrates **Metal-Organic Framework (MOF) water harvesting**, **salt brine construction reuse**, and **EarthGrid plasma boring** technologies to create a closed-loop system for power, water, and infrastructure. We're incorporating these ideas in the [Abundance Engine scenario planner](/project/).
 
 Underground SMRs represent a new frontier in **clean, distributed nuclear power**:
 - **Safety:** Geological containment and passive cooling drastically reduce meltdown risks.  
